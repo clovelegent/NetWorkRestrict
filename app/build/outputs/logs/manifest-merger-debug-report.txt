@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:4:5-46
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:20:5-43
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_APN_SETTINGS
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:13:22-74
+application
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:15:5-26:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\30dc84f236efa4444b9b581573d12503\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:19:9-40
+receiver#com.softsz.networkrestrict.MobileDataConnectedReceiver
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:21:9-25:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:21:19-88
+intent-filter#action:name:action_mobil_data_reconnected
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:22:13-24:29
+action#action_mobil_data_reconnected
+ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:23:17-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\NetWorkRestrict\app\src\main\AndroidManifest.xml:23:25-69
